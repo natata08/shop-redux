@@ -1,8 +1,11 @@
-import './App.css'
+import Header from './components/Header.tsx'
 
 function App() {
-  return <>
-    <p>Hello world!</p></>
+  return (
+    <>
+      <Header />
+    </>
+  )
 }
 
 export default App
