@@ -56,7 +56,7 @@ h1 {
 
 #shop {
   width: 70%;
-  margin: 2rem auto;
+  margin: 0 auto;
 }
 
 #shop h2 {
@@ -70,7 +70,7 @@ h1 {
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
   gap: 2rem;
 }
 
