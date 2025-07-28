@@ -2,7 +2,6 @@
   "name": "shop-redux",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://natata08.github.io/shop-redux",
   "type": "module",
   "scripts": {
     "dev": "vite",
